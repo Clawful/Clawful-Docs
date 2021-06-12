@@ -15,7 +15,5 @@ _Locks the channel for the desired Role_
 | :---: | :---: | :---: |
 | Role ID/Mention | String or Number | ❌ |
 
-{% hint style="info" %}
 The users with the selected role will not be able to send messages in the channel where the command was used.
-{% endhint %}
 
