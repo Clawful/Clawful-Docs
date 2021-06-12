@@ -1,17 +1,17 @@
 # Unlock
 
-## Description
+#### Description
 
 _Unocks the channel for the desired Role_
 
 | Usage |
 | :---: |
-| cw!unlock &lt;Role ID/Mention&gt; |
-| @Clawful unlock &lt;Role ID/Mention&gt; |
+| `cw!unlock <Role ID/Mention>` |
+| `@Clawful unlock <Role ID/Mention>` |
 
-## Arguments
+#### Arguments
 
-| Parameters | Type | Optional |
-| :---: | :---: | :---: |
-| User ID/Mention | String or number | ❌ |
+| Parameters | Optional |
+| :---: | :---: |
+| User ID/Mention | ❌ |
 

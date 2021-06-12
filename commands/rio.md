@@ -1,23 +1,25 @@
 # RIO
 
-## Description
+#### Description
 
 _Raider IO information for World of Warcraft users_
 
 | Usage | Aliases |
 | :---: | :---: |
-| cw!rio &lt;Name&gt; &lt;Realm&gt; &lt;Region&gt; | wow, wowinfo |
-| @Clawful &lt;Name&gt; &lt;Realm&gt; &lt;Region&gt; |  |
+| `cw!rio <Name> <Realm> <Region>` | wow, wowinfo |
+| `@Clawful <Name> <Realm> <Region>` |  |
 
-## Arguments
+#### Arguments
 
-| Parameter | Type | Optional |
-| :---: | :---: | :---: |
-| Name | String with character name | ❌ |
-| Realm | String with Realm name | ❌ |
-| Region | String with Region name | ❌ |
+| Parameter | Optional |
+| :---: | :---: |
+| Name | ❌ |
+| Realm | ❌ |
+| Region | ❌ |
 
+{% hint style="info" %}
 If your realm has spaces replace them with a - . For example if your realm is `Altar of Storms` write it as `altar-of-storms`
+{% endhint %}
 
 ## Example
 

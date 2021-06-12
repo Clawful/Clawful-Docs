@@ -1,6 +1,6 @@
 # Cat
 
-## Description
+#### Description
 
 _Sends a random cat pic_
 

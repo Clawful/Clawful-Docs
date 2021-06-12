@@ -1,6 +1,6 @@
 # Ban
 
-## Description
+#### Description
 
 _Bans the user, sending him a message and logging it in ModLogs channel_
 
@@ -9,12 +9,12 @@ _Bans the user, sending him a message and logging it in ModLogs channel_
 | cw!ban &lt;User ID/Mention&gt; &lt;Reason&gt; |
 | @Clawful ban &lt;User ID/Mention&gt; &lt;Reason&gt; |
 
-## Arguments
+#### Arguments
 
-| Parameter | Type | Optional |
-| :---: | :---: | :---: |
-| User ID/Mention | String or number | ❌ |
-| Reason | String, reason for the ban | ❌ |
+| Parameter | Optional |
+| :---: | :---: |
+| User ID/Mention | ❌ |
+| Reason | ❌ |
 
 {% hint style="info" %}
 If the user does not allow DM's from server members then he will not know he got banned.

@@ -29,6 +29,18 @@
 * [LB](commands/lb.md)
 * [Bal](commands/bal.md)
 * [Transfer](commands/transfer.md)
+* [8ball](commands/8ball.md)
+* [Bored](commands/bored.md)
+* [Colors](commands/colors.md)
+* [Delete](commands/delete.md)
+* [Devil](commands/devil.md)
+* [Gif](commands/gif.md)
+* [LGBT](commands/lgbt.md)
+* [Pixel](commands/pixel.md)
+* [Spank](commands/spank.md)
+* [Triggered](commands/triggered.md)
+* [Wanted](commands/wanted.md)
+* [Wasted](commands/wasted.md)
 
 ## Moderation Commands
 

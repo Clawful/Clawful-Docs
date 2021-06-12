@@ -1,15 +1,15 @@
 # Slots
 
-## Description
+#### Description
 
 _Play Slots, winning or losing modifies your hair balance._
 
 | Usage | Aliases |
 | :---: | :---: |
-| cw!slots | s, playslots |
-| @Clawful slots |  |
+| `cw!slots` | s, playslots |
+| `@Clawful slots` |  |
 
-## Currency
+#### Currency
 
 | 3 Equal | 2 Equal | 3 Different |
 | :---: | :---: | :---: |

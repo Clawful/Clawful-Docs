@@ -1,18 +1,18 @@
 # Transfer
 
-## Description
+#### Description
 
 _Transfer the desired amount of hairs to a user_
 
 | Usage | Aliases |
 | :---: | :---: |
-| cw!transfer  &lt;Amount&gt; &lt;User Mention&gt; | t, tr, tran |
-| @Clawful &lt;Amount&gt; &lt;User Mention&gt; |  |
+| `cw!transfer  <Amount> <User Mention>` | t, tr, tran |
+| `@Clawful <Amount> <User Mention>` |  |
 
-## Arguments
+#### Arguments
 
-| Parameter | Type | Optional |
-| :---: | :---: | :---: |
-| Amount | Number | ❌ |
-| User Mention | Tag/Mention | ❌ |
+| Parameter | Optional |
+| :---: | :---: |
+| Amount | ❌ |
+| User Mention | ❌ |
 

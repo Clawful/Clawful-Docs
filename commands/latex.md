@@ -1,19 +1,19 @@
 # Latex
 
-## Description
+#### Description
 
 _Sends Latex written equations_
 
 | Usage | Aliases |
 | :---: | :---: |
-| cw!latex &lt;Equation&gt; | math, maths |
-| @Clawful Latex &lt;Equation&gt; |  |
+| `cw!latex <Equation>` | math, maths |
+| `@Clawful Latex <Equation>` |  |
 
-## Arguments
+#### Arguments
 
-| Parameter | Type | Optional |
-| :---: | :---: | :---: |
-| Equation | Numbers and letters for equation | ❌ |
+| Parameter | Optional |
+| :---: | :---: |
+| Equation | ❌ |
 
 ## Example 1
 

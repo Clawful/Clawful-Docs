@@ -1,16 +1,16 @@
 # Setroles
 
-## Description
+#### Description
 
 _Sets the autoroles for the server_
 
 | Usage |
 | :---: |
-| cw!setroles &lt;Role 1 ID&gt; &lt;Role 2 ID&gt; ... |
+| `cw!setroles <Role 1 ID> <Role 2 ID> ...` |
 
-## Arguments
+#### Arguments
 
-| Parameter | Type | Optional |
-| :---: | :---: | :---: |
-| &lt;Role ID&gt; | Number with the role ID | ❌ |
+| Parameter | Optional |
+| :---: | :---: |
+| Role ID | ❌ |
 

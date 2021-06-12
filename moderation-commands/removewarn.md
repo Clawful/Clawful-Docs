@@ -1,17 +1,17 @@
 # Removewarn
 
-## Description
+#### Description
 
 _Removes the selected warn from user_
 
 | _Usage_ |
 | :---: |
-| cw!ban &lt;User ID/Mention&gt; &lt;Warn Number&gt; |
+| `cw!ban <User ID/Mention> <Warn Number>` |
 
-## Arguments
+#### Arguments
 
-| Parameters | Type | Optional |
-| :---: | :---: | :---: |
-| User ID/Mention | String or number | ❌ |
-| Reason | String, reason for the ban | ❌ |
+| Parameters | Optional |
+| :---: | :---: |
+| User ID/Mention | ❌ |
+| Reason | ❌ |
 
