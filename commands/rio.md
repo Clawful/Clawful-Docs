@@ -27,5 +27,7 @@ cw!rio Lyira kiljaeden us
 
 ## About this command
 
+{% hint style="info" %}
 All the information displayed in this command is gathered from Raider IO. This is not an official RIO bot. For more information visit [https://raider.io/](https://raider.io/)
+{% endhint %}
 

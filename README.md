@@ -16,3 +16,7 @@ You can join Clawful support server [here](https://discord.gg/KqHmP82ENP)
 
 ### Docs Notes
 
+{% hint style="info" %}
+In the commands, `[]`is used for optional parameters and `<>` for required parameters.
+{% endhint %}
+

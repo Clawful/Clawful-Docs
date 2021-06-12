@@ -15,5 +15,7 @@ _Display command list or info about specific command_
 | :---: | :---: | :---: |
 | Command Name | Text, one word | ✅ |
 
-When using the optional parameter with the command name, you'll get more information about that command. If you do not provide a parameter you will recieve a list with all the possible commands Clawful has.
+{% hint style="info" %}
+When using the optional parameter with the command name, you'll get more information about that command. If you do not provide a parameter you will receive a list with all the possible commands Clawful has.
+{% endhint %}
 
