@@ -17,9 +17,7 @@ _Raider IO information for World of Warcraft users_
 | Realm | String with Realm name | ❌ |
 | Region | String with Region name | ❌ |
 
-{% hint style="info" %}
-If your realm has spaces replace spaces with a `-`. For example if your realm is `Altar of Storms` write it as `altar-of-storms`
-{% endhint %}
+If your realm has spaces replace them with a - . For example if your realm is `Altar of Storms` write it as `altar-of-storms`
 
 ## Example
 
