@@ -18,9 +18,5 @@ You can join Clawful support server [here](https://discord.gg/KqHmP82ENP)
 
 ### Docs Notes
 
-{% hint style="info" %}
-In the commands, parameters between `<>`  are required and parameters between `[]` are optional
-{% endhint %}
-
 
 
