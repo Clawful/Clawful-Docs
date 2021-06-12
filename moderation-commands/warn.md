@@ -1,15 +1,15 @@
 # Warn
 
-#### Description
+## Description
 
- _Warns the user, sending him a message and logging it in ModLogs channel_
+_Warns the user, sending him a message and logging it in ModLogs channel_
 
 | Usage |
 | :---: |
 | cw!warn &lt;User ID/Mention&gt; &lt;Reason&gt; |
 | @Clawful warn &lt;User ID/Mention&gt; &lt;Reason&gt; |
 
-#### Arguments
+## Arguments
 
 | Parameter | Type | Optional |
 | :---: | :---: | :---: |

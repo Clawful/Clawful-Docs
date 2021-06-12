@@ -1,6 +1,6 @@
 # Bal
 
-#### Description
+## Description
 
 _Sends the user's profile and updates level roles in Clawful dev server_
 
@@ -9,7 +9,5 @@ _Sends the user's profile and updates level roles in Clawful dev server_
 | cw!bal | profile, balance |
 | @Clawful bal |  |
 
-
 If you use the command in the [Support Server](https://discord.com/invite/KqHmP82ENP) you get your Level Role!
-
 

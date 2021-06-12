@@ -1,6 +1,6 @@
 # RIO
 
-#### Description
+## Description
 
 _Raider IO information for World of Warcraft users_
 
@@ -9,7 +9,7 @@ _Raider IO information for World of Warcraft users_
 | cw!rio &lt;Name&gt; &lt;Realm&gt; &lt;Region&gt; | wow, wowinfo |
 | @Clawful &lt;Name&gt; &lt;Realm&gt; &lt;Region&gt; |  |
 
-#### Arguments
+## Arguments
 
 | Parameter | Type | Optional |
 | :---: | :---: | :---: |
@@ -21,13 +21,13 @@ _Raider IO information for World of Warcraft users_
 If your realm has spaces replace spaces with a `-`. For example if your realm is `Altar of Storms` write it as `altar-of-storms`
 {% endhint %}
 
-#### Example
+## Example
 
 ```text
 cw!rio Lyira kiljaeden us
 ```
 
-#### About this command
+## About this command
 
 {% hint style="info" %}
 All the information displayed in this command is gathered form Raider IO, this is not an official RIO bot. For more information visit [https://raider.io/](https://raider.io/)

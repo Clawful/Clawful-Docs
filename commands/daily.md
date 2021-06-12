@@ -1,8 +1,8 @@
 # Daily
 
-#### Description
+## Description
 
- _Claim your daily hairs!_
+_Claim your daily hairs!_
 
 | Usage | Aliases |
 | :---: | :---: |

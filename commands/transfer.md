@@ -1,6 +1,6 @@
 # Transfer
 
-#### Description
+## Description
 
 _Transfer the desired amount of hairs to a user_
 
@@ -9,12 +9,10 @@ _Transfer the desired amount of hairs to a user_
 | cw!transfer  &lt;Amount&gt; &lt;User Mention&gt; | t, tr, tran |
 | @Clawful &lt;Amount&gt; &lt;User Mention&gt; |  |
 
-#### Arguments
+## Arguments
 
 | Parameter | Type | Optional |
 | :---: | :---: | :---: |
 | Amount | Number | ❌ |
 | User Mention | Tag/Mention | ❌ |
-
-
 

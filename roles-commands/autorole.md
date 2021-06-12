@@ -1,6 +1,6 @@
 # Autorole
 
-#### Description
+## Description
 
 _Adds or removes the autorole to the user_
 
@@ -8,11 +8,9 @@ _Adds or removes the autorole to the user_
 | :---: |
 | cw!autorole \|Role 1 Name\|Role 2 Name\|... |
 
-#### Arguments
+## Arguments
 
 | Parameter | Type | Optional |
 | :---: | :---: | :---: |
 | Role Name | String: The name of the role | ❌ |
-
-
 

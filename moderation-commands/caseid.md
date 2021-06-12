@@ -1,6 +1,6 @@
 # CaseID
 
-#### Description
+## Description
 
 _Returns an embed with all the warnings/kicks/bans the user had_
 
@@ -9,11 +9,9 @@ _Returns an embed with all the warnings/kicks/bans the user had_
 | cw!caseid &lt;User ID/Mention&gt; |
 | @Clawful caseid &lt;User ID/Mention&gt; |
 
-#### Arguments
+## Arguments
 
 | Parameter | Type | Optional |
 | :---: | :---: | :---: |
 | User ID/Mention | String or number | ❌ |
-
-
 

@@ -1,18 +1,16 @@
 # Bet
 
-#### Description
+## Description
 
- _Bet the desired amount of hairs_
+_Bet the desired amount of hairs_
 
 | _Usage_ | Aliases |
 | :---: | :---: |
 | cw!bet &lt;Amount&gt; | b |
 
-#### Arguments
+## Arguments
 
 | Parameter | Type | Optional |
 | :---: | :---: | :---: |
 | Amount | Number of hairs to bet | ❌ |
-
-
 

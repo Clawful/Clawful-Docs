@@ -1,6 +1,6 @@
 # Latex
 
-#### Description
+## Description
 
 _Sends Latex written equations_
 
@@ -9,21 +9,21 @@ _Sends Latex written equations_
 | cw!latex &lt;Equation&gt; | math, maths |
 | @Clawful Latex &lt;Equation&gt; |  |
 
-#### Arguments
+## Arguments
 
 | Parameter | Type | Optional |
 | :---: | :---: | :---: |
 | Equation | Numbers and letters for equation | ❌ |
 
-#### Example 1
+## Example 1
 
 ```text
 cw!latex \int e^{x^2}\,dx = \sqrt{\pi}
 ```
 
-![The image Clawful gives us](.gitbook/assets/teximage.png)
+![The image Clawful gives us](../.gitbook/assets/teximage.png)
 
-#### Example 2
+## Example 2
 
 More complicated equations:
 
@@ -38,5 +38,5 @@ cw!latex \begin{align}
 \end{align}
 ```
 
-![More complicated result in latex command](.gitbook/assets/teximage%20%281%29.png)
+![More complicated result in latex command](../.gitbook/assets/teximage%20%281%29.png)
 

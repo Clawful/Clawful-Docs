@@ -1,14 +1,14 @@
 # Setroles
 
-#### Description
+## Description
 
- _Sets the autoroles for the server_
+_Sets the autoroles for the server_
 
 | Usage |
 | :---: |
 | cw!setroles &lt;Role 1 ID&gt; &lt;Role 2 ID&gt; ... |
 
-#### Arguments
+## Arguments
 
 | Parameter | Type | Optional |
 | :---: | :---: | :---: |

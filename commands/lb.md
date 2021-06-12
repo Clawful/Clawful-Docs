@@ -1,8 +1,8 @@
 # LB
 
-#### Description
+## Description
 
- _Sends leaderboard with 5 highest scores_
+_Sends leaderboard with 5 highest scores_
 
 | _Usage_ | Aliases |
 | :---: | :---: |

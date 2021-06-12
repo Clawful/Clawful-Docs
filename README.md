@@ -14,9 +14,5 @@ You can invite Clawful clicking [here](https://discord.com/oauth2/authorize?clie
 
 You can join Clawful support server [here](https://discord.gg/KqHmP82ENP)
 
-
-
 ### Docs Notes
-
-
 

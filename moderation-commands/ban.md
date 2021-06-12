@@ -1,15 +1,15 @@
 # Ban
 
-#### Description
+## Description
 
- _Bans the user, sending him a message and logging it in ModLogs channel_
+_Bans the user, sending him a message and logging it in ModLogs channel_
 
 | _Usage_ |
 | :---: |
 | cw!ban &lt;User ID/Mention&gt; &lt;Reason&gt; |
 | @Clawful ban &lt;User ID/Mention&gt; &lt;Reason&gt; |
 
-#### Arguments
+## Arguments
 
 | Parameter | Type | Optional |
 | :---: | :---: | :---: |

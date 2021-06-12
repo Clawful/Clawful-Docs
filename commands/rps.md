@@ -1,8 +1,8 @@
 # RPS
 
-#### Description
+## Description
 
-_Play Rock Paper  scissiors with the user that comments_ `cw!join`
+_Play Rock Paper scissiors with the user that comments_ `cw!join`
 
 | Usage | Aliases |
 | :--- | :--- |
@@ -11,11 +11,9 @@ _Play Rock Paper  scissiors with the user that comments_ `cw!join`
 
 A user must answer with `cw!join` to be able to play.
 
-#### Currency
+## Currency
 
 | Winner | Loser |
 | :---: | :---: |
 | +10 Hairs | -10 Hairs |
-
-
 

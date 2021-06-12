@@ -18,19 +18,17 @@
 
 ## Fun Commands <a id="commands"></a>
 
----
-
-* [Cat](cat.md)
-* [Poll](poll.md)
-* [RIO](rio.md)
-* [Slots](slots.md)
-* [RPS](rps.md)
-* [Latex](latex.md)
-* [Bet](bet.md)
-* [Daily](daily.md)
-* [LB](lb.md)
-* [Bal](bal.md)
-* [Transfer](transfer.md)
+* [Cat](commands/cat.md)
+* [Poll](commands/poll.md)
+* [RIO](commands/rio.md)
+* [Slots](commands/slots.md)
+* [RPS](commands/rps.md)
+* [Latex](commands/latex.md)
+* [Bet](commands/bet.md)
+* [Daily](commands/daily.md)
+* [LB](commands/lb.md)
+* [Bal](commands/bal.md)
+* [Transfer](commands/transfer.md)
 
 ## Moderation Commands
 

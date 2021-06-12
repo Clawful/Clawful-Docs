@@ -1,14 +1,14 @@
 # Removewarn
 
-#### Description
+## Description
 
- _Removes the selected warn from user_
+_Removes the selected warn from user_
 
 | _Usage_ |
 | :---: |
 | cw!ban &lt;User ID/Mention&gt; &lt;Warn Number&gt; |
 
-#### Arguments
+## Arguments
 
 | Parameters | Type | Optional |
 | :---: | :---: | :---: |

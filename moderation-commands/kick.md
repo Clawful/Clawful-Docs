@@ -1,15 +1,15 @@
 # Kick
 
-#### Description
+## Description
 
- _Kicks the user, sending him a message and logging it in ModLogs channel_
+_Kicks the user, sending him a message and logging it in ModLogs channel_
 
 | Usage |
 | :---: |
 | cw!ban &lt;User ID/Mention&gt; &lt;Reason&gt; |
 | @Clawful &lt;User ID/Mention&gt; &lt;Reason&gt; |
 
-#### Arguments
+## Arguments
 
 | Parameter | Type | Optional |
 | :---: | :---: | :---: |
