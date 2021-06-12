@@ -8,11 +8,13 @@ description: All you need to know about Clawful!
 
 Here you can find all the information you need to use Clawful.
 
-You can view the website here
+You can view the website [here](https://clawful.cf/)
 
 You can invite Clawful clicking [here](https://discord.com/oauth2/authorize?client_id=775810393556779018&scope=bot&permissions=272682054)
 
 You can join Clawful support server [here](https://discord.gg/KqHmP82ENP)
+
+
 
 ### Docs Notes
 
